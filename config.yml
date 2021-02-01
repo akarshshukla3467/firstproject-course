@@ -1,8 +1,9 @@
-title: FirstProject
+title: datasciencecoursera
 description: Learning Project
 template:
   repo: firstproject-template
   name: firstproject
+  description: Learning Project
 before:
   - type: createIssue
     title: Welcome!
